@@ -1,0 +1,2 @@
+# 2009MYSEMB02-Appium-99002668
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5e2e5a76672d4a3bb630d100721daece)](https://app.codacy.com/gh/99002668/2009MYSEMB02-Appium-99002668?utm_source=github.com&utm_medium=referral&utm_content=99002668/2009MYSEMB02-Appium-99002668&utm_campaign=Badge_Grade_Settings)
